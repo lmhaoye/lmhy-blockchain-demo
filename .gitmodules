@@ -1,0 +1,9 @@
+[submodule "lmhy-web"]
+	path = lmhy-web
+	url = https://github.com/lmhaoye/lmhy-web.git
+[submodule "lmhy-quorum"]
+	path = lmhy-quorum
+	url = https://github.com/lmhaoye/lmhy-quorum.git
+[submodule "lmhy-bcos"]
+	path = lmhy-bcos
+	url = https://github.com/lmhaoye/lmhy-bcos.git
