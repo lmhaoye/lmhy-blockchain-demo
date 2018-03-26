@@ -7,3 +7,6 @@
 [submodule "lmhy-bcos"]
 	path = lmhy-bcos
 	url = https://github.com/lmhaoye/lmhy-bcos.git
+[submodule "lmhy-fisco-bcos"]
+	path = lmhy-fisco-bcos
+	url = https://github.com/lmhaoye/lmhy-fisco-bcos.git
